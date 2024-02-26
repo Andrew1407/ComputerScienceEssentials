@@ -1,6 +1,6 @@
-# ComputerScienceEssentials
+# Computer Science Essentials
 
-Computer sciende c++ code examples of main concepts &amp; topics/
+Computer sciende c++ code examples of main concepts &amp; topics.
 
 To launch a main just run a [bash script](./run.sh):
 
